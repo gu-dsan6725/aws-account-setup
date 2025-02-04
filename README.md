@@ -1,12 +1,12 @@
 # AWS Account Setup Guide
 
-This document outlines the steps for requesting and setting up new AWS Learner Lab accounts, including account provisioning, student login, and cross-account access.
+This document outlines the steps for requesting and setting up new AWS Learner Lab accounts, including account provisioning, student login and cross-account access.
 
 ## Account Setup Steps
 
 | Step # | Step Description                                      | Who            | What                                             |
 |--------|------------------------------------------------------|---------------|------------------------------------------------|
-| 1      | Request a new AWS Learner Lab account                | Student       | Submit a request in the #aws channel on SLack |
+| 1      | Request a new AWS Learner Lab account                | Student       | Submit a request in the #aws channel on Slack |
 | 2      | Create the account with `email+n`                   | TA/Professor      | Add the account using AWS console        |
 | 3      | Confirm new account invite with students with students                   | TA/Professor      | Reply to the request thread on Slack     |
 | 4      | Students log in and set up their accounts           | Student       | Follow the pinned login instructions (below)  |
