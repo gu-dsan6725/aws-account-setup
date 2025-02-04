@@ -31,7 +31,7 @@ If you received a new AWS account and need instructions to access your new lab l
    - On the upper-right side, find the **"Ways of Contact"** section.  
    - Click on the ⭐ star next to your `+n` email to set it as the primary email.
 
-   ![AWS Login Guide](images/aws-login-guide.jpeg)
+   ![AWS Login Guide](images/aws-login-guide.png)
 
 5. **Access Your Learner Lab**:  
    You should now be able to launch your new AWS Learner Lab.
