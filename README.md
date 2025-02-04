@@ -24,7 +24,7 @@ If you received a new AWS account and need instructions to access your new lab l
    Click on the invite link. This should take you to the **AWS Academy login page**.
 
 3. **Log in Using Your Old Account**:  
-   **Do not use the new email (`+n` email) to log in.** Instead, log in using your original Georgetown email (without the `+1`).
+   **DO NOT use the new email (`+n` email) to log in.** Instead, log in using your ORIGINAL Georgetown email (without the `+n`).
 
 4. **Update Your Contact Email**:  
    - Once inside your old account, navigate to **Account** > **Settings**.  
