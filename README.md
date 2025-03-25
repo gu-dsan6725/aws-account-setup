@@ -11,7 +11,7 @@ This document outlines the steps for requesting and setting up new AWS Learner L
 | 3      | Confirm new account invite with students            | TA/Professor   | Reply to the request thread on Slack     |
 | 4      | Students log in and set up their accounts           | Student        | Follow the pinned login instructions (below)  |
 | 5      | Add student account details to the Google Sheet     | Student        | Update the tracking sheet with new aws account info   |
-| 6      | Enable aws cross-account access                     | Professor      | Grant necessary permissions                   |
+| 6      | Enable aws cross-account access                     | Professor/TA      | Grant necessary permissions                   |
 
 ## Login Instructions
 
